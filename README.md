@@ -1,4 +1,5 @@
 hello-java-maven
+
 A simple Java Hello World application built using Apache Maven and integrated with Jenkins as part of a Continuous Integration (CI) demo.
 
 Project Structure
